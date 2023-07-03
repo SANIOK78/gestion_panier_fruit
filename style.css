@@ -1,0 +1,105 @@
+/* * {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+/* .container{
+    width: 94%;
+    min-height: 80vh;
+    margin: 20px auto;
+} */
+/* .content{
+    display: flex;
+    margin: 20px 0;
+}
+h1 {
+    font-size: 22px;
+    color:blue;
+    padding: 10px;
+    text-align:center;
+    margin: 20px 0;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px blue;
+} */
+/* img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    padding: 10px;
+    box-shadow: 0 0 6px rgba(90, 1, 90, 0.6);
+    border-radius: 8px;
+}
+.image {
+    margin-right: 10px;
+}
+.fruits{
+    display: flex;
+    flex-wrap: wrap;
+}
+.infos{
+    padding: 0 10px;
+}
+h4{
+    text-align: center;
+    padding:6px;
+    color:blue;
+    font-size: 20px;
+} */
+
+/* .nav{
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+ul{
+    display: flex;
+    padding:0; 
+}
+li{
+    list-style: none;
+    color: white;
+    padding: 5px 16px;
+    margin: 10px 10px;
+    font-size: 16px;
+    box-shadow: 0 0 6px rgba(2, 48, 250, 0.6);
+    border-radius: 6px;
+    cursor: pointer;
+}
+li:hover{
+    transform: scale(0.98);
+    box-shadow: 0 0 6px blue;
+}
+a {
+    color: blue;
+    font-size: bold;
+    text-decoration: none;
+}
+
+fieldset{
+    padding: 20px;
+}
+legend{
+    padding: 6px;
+}
+label, input {
+    margin: 10px 2px;
+}
+input {
+    padding: 8px;
+    border: none;
+}
+.btn{
+    color: white;
+    padding:8px 12px;
+    border-radius: 10px;
+    border:none;
+    background-color: green;
+}
+.footer{
+    background-color: #f1f1f1;
+    padding: 10px;  
+    margin-top: 50px;
+} */
+
+.persoBgViolet{
+    background-color: blueviolet;
+}
